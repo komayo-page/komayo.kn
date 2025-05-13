@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://kn.komayo.page/</loc>
     <lastmod>2023-06-26</lastmod>
+    <image:image>
+      <image:loc>https://kn.komayo.page/img/mysterious-japanese-woman-urban-night-scene-manga-style-illustration,w_1024.webp</image:loc>
+      <image:title>ನಗರದ ರಾತ್ರಿಯ ದೃಶ್ಯದಲ್ಲಿ ನಿಗೂಢ ಜಪಾನಿ ಮಹಿಳೆಯ ಮಾಂಗಾ ಶೈಲಿಯ ಚಿತ್ರ</image:title>
+      <image:caption>ನಗರದ ರಾತ್ರಿಯ ದೃಶ್ಯದಲ್ಲಿ ನಿಗೂಢ ಜಪಾನಿ ಮಹಿಳೆಯ ಮಾಂಗಾ ಶೈಲಿಯ ಚಿತ್ರ</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kn.komayo.page/favicon/favicon.svg</image:loc>
+      <image:title>ಗೊಮಯೋ</image:title>
+    </image:image>
   </url>
 </urlset>
